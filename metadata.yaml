@@ -1,5 +1,8 @@
 _repo: The-Fight-for-Conservation_11238
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pinchot, Gifford
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3896
     wikipedia: http://en.wikipedia.org/wiki/Gifford_Pinchot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11238#The-Fight-for-Conservation
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
